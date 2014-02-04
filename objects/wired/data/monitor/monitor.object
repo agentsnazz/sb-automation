@@ -25,7 +25,6 @@
   "scriptDelta" : 5,
 
   "animation" : "monitor.animation",
-
   "animationParts" : {
     "monitor" : "monitor.png"
   },
